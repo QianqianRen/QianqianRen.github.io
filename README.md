@@ -20,7 +20,7 @@ Hi, I’m Qianqian Ren, a professor in Heilongjiang University specializing in m
 2. **Jiaqi Lin**, **Qianqian Ren**, Xingfeng Lv, Hui Xu, Yong Liu: "When multi-view meets multi-level: A novel spatio-temporal transformer for traffic prediction." *Information Fusion*, Volume 117, 2025, 102801. (IF: 10.4)  
 3. **Lin Pan**, **Qianqian Ren**, Zilong Li, Caihong Zhao: "Multi-scale synchronous contextual network for fine-grained urban flow inference." *Information Sciences*, 689 (2025) 120712. (IF:8.1)  
 4. **Haozhi Gao**, **Qianqian Ren**, Jinbao Li: "Distillation enhanced time series forecasting network with momentum contrastive learning." *Information Sciences*, 675 (2024) 120712. (IF:8.1)  
-5. **Shengxi Fu**, **Qianqian Ren**, Jinbao Li: "Multi-behavior recommendation with SVD Graph Neural Networks." *Expert Systems With Applications*, 2024. (SCI一区, IF:8.6)
+5. **Shengxi Fu**, **Qianqian Ren**, Jinbao Li: "Multi-behavior recommendation with SVD Graph Neural Networks." *Expert Systems With Applications*, 2024. (IF:8.6)
 
 ### 📖 Conference Papers
 1. ICASSP 2024, **Lin Pan**, **Qianqian Ren**: "Urban Traffic Flow Forecasting Based on Spatial-Temporal Graph Contrastive Learning." (CCF B)  
