@@ -1,4 +1,3 @@
-# QianqianRen.github.io
 # Welcome to My GitHub 👋
 
 👩‍🏫 **About Me**  
